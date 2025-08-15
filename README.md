@@ -1,9 +1,9 @@
-# US Museums Historical Examinations
+<h1 align="center" style="color: blue;">
+    An Examination of The Met and MFA's Colonial Past, Oligarchy-Driven Expansion, and Representation Bias
+</h1>
 
 <p align="center">
-    <img src="./imgs/The_Metropolitan_Museum_of_Art_Logo.svg.png" width="20%" alt="The Met Logo">
-    <img src="./imgs/Museum_of_Fine_Arts_Boston_Logo-700x745-1.png" width="20%" alt="MFA, Boston Logo">
-    <img src="./imgs/Kaggle_Logo.svg.png" width="30%" alt="Kaggle Logo">
+    <img src="./imgs/logos.png" width="100%" alt="Logos">
 </p>
 
 ## Project Overview
@@ -15,10 +15,18 @@ This project investigates the histories and collections of two of the United Sta
 ### Museum of Fine Arts, Boston (MFA)
 Founded in 1870, the MFA Boston is one of the oldest and most comprehensive art museums in the United States. Its collection spans continents and millennia, with particular strengths in Asian art, American art, and ancient artifacts. The museum has played a significant role in shaping the cultural landscape of Boston and has been at the forefront of provenance research and public engagement.
 
-
+<p align="center">
+	<img src="./imgs/mfa-new.png" width="50%" alt="MFA, Boston"><br>
+	<span>MFA, Boston</span>
+</p>
 
 ### The Metropolitan Museum of Art (The Met)
 Established in 1870, The Met is the largest art museum in the US and one of the most visited in the world. Its encyclopedic collection covers over 5,000 years of art from every part of the globe. The Met has been instrumental in defining museum practices, collection strategies, and public education in the US and internationally.
+
+<p align="center">
+	<img src="./imgs/met-new.png" width="50%" alt="The Met"><br>
+	<span>The Met, NY</span>
+</p>
 
 ## Data Analysis Approach
 
